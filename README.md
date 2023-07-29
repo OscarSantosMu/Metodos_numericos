@@ -11,6 +11,9 @@ Este repositorio contiene un programa con 6 métodos numéricos. Los cuales se e
 5. Cálculo de eigenvalores y eigenvectores.
 6. Métodos de aproximacion de funciones con tabla de coordenadas.
 
+## Menú de la app de Consola
+![](../../static/menu.png)
+
 ## Notas y créditos
 Este programa fue un proyecto final de la materia Métodos Numéricos en la Universidad de Guanajuato en conjunto con los siguientes compañeros.
 - Brandon Martínez

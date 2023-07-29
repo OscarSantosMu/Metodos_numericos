@@ -11,6 +11,9 @@ This repository contains a program with 6 numerical methods, which are listed be
 1. Calculation of eigenvalues and eigenvectors.
 2. Methods for approximating functions with coordinate tables.
 
+## Console App Menu
+![](../../static/menu.png)
+
 ## Notes and Credits
 This program was a final project for the subject "Numerical Methods" at the University of Guanajuato, developed in collaboration with the following colleagues:
 - Brandon Martínez
